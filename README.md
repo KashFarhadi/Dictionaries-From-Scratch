@@ -1,7 +1,12 @@
 # “Baking a Python Dictionary From Scratch”
 
 We're going to create our own version of a dictionary data structure in Python.
+
+This is a Jupyter Notebook for a demo that was presented to software engineering students at Kenzie Academy.
  
+
+## Creator
+Kash Farhadi
 
  ## Abstract
 
@@ -9,15 +14,6 @@ We're going to create our own version of a dictionary data structure in Python.
 Let's not be goobers together.
 
 Is it possible to build a python dictionary without the dict keyword? We’ll dive under the hood to build a dictionary data structure and become familiar with some concepts that the geniuses behind python understood.
-
-
-## Creator
-Kash Farhadi
-
-
-## About
-
-This is a Jupyter Notebook for a demo that was presented to software engineering students at Kenzie Academy.
 
 
 Uses a Python 3 Jupyter kernel.
